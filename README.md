@@ -1,5 +1,5 @@
 
-# Pinwheel Coding Challenge: Find the Forms 
+# Coding Challenge: Find the Forms 
 
 
 ## Technologies Used
